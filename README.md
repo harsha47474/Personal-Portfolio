@@ -5,7 +5,7 @@ This website is a digital space where I share a bit about myself, the skills Iâ€
 
 ## ğŸ” Preview
 
-[Live Demo (GitHub Pages)]() 
+[Live Demo (GitHub Pages)](https://harsha47474.github.io/Personal-Portfolio/) 
 
 ---
 
